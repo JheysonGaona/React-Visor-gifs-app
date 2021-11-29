@@ -13,7 +13,7 @@ Ejecuta la aplicación en modo de desarrollo.\
 Abrir [http://localhost:3000](http://localhost:3000) para visualizar en el navegador.
 
 ### `npm run test`
-Ejecuta las prueba de test de la aplicación.
+Ejecuta las prueba test de la aplicación.
 
 ### `npm run build`
 Construye la aplicación para producción en la carpeta `build`.\
