@@ -12,9 +12,6 @@ Instala los node_modules para la aplicación, si usted ha descargado o clonado e
 Ejecuta la aplicación en modo de desarrollo.\
 Abrir [http://localhost:3000](http://localhost:3000) para visualizar en el navegador.
 
-### `npm run test`
-Ejecuta las prueba test de la aplicación.
-
 ### `npm run build`
 Construye la aplicación para producción en la carpeta `build`.\
 Para poder visualizar el proyecto en producción usted dirigase a la carpeta `docs`
