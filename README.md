@@ -13,7 +13,8 @@ Ejecuta la aplicación en modo de desarrollo.\
 Abrir [http://localhost:3000](http://localhost:3000) para visualizar en el navegador.
 
 ### `npm run build`
-Construye la aplicación para producción en la carpeta `build`, en este caso se llama Docs.\
+Construye la aplicación para producción en la carpeta `build`.\
+Para poder visualizar el proyecto en producción usted dirigase a la carpeta `docs`
 Si desea visualizar el proyecto de mejor manera, es necesario tener instalado un servidor local.
 Consulte [http-server](https://www.npmjs.com/package/http-server) para más información.
-Una vez instalado `http-server` dirigase a la carpeta de `Docs` y digite: `http-server -o`
+Una vez instalado `http-server` dirigase a la carpeta de `docs` y digite en la terminal: `http-server -o`
